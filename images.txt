@@ -7,3 +7,4 @@ xhofe/alist:latest
 nginx:stable-perl
 python:3.9.21-bookworm
 centos:centos7
+redis:8.0-M04-bookworm
